@@ -28,7 +28,7 @@ In your map, add a GameObject called "TankArea", this will be where your tank wi
 
 ![image](https://user-images.githubusercontent.com/81720436/194596222-a8dbab16-a5d3-4d88-b9e8-84190569878a.png)
 
-Tip: If you put a cube inside the TankArea object that has a scale of 1.95 x 1 x 2.85, it can be used as a reference.
+Tip: If you put a cube inside the TankArea object that has a scale of 1.95 x 1 x 2.85, it can be used as a reference.          
 The blue arrow is the direction the tank will spawn in.
 
 ![image](https://user-images.githubusercontent.com/81720436/194596709-4ee41764-ab16-44ea-8378-ff868e85633b.png)
